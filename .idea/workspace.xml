@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4950f9aa-45c3-4a58-9ace-c1bae9caafbe" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lv001.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svn" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/svn/java55" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/svn/java55/网站" afterDir="true" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1iMEd5fB0du4TUpJCgWtBTNXAwa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Subversion" />
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\49989\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="D:\SVN\bin" />
+          <option name="myCopyRoot" value="D:\SVN\bin" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="D:\SVN\bin" />
+          <option name="myCopyRoot" value="D:\SVN\bin" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4950f9aa-45c3-4a58-9ace-c1bae9caafbe" name="Default Changelist" comment="" />
+      <created>1601709144979</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601709144979</updated>
+      <workItem from="1601709150202" duration="760000" />
+      <workItem from="1601710594166" duration="78000" />
+      <workItem from="1601710684742" duration="13000" />
+      <workItem from="1601711476200" duration="17000" />
+      <workItem from="1601714587380" duration="89000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="153" key="FileChooserDialogImpl" timestamp="1601714643092">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="153" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1601714643092" />
+    <state x="270" y="56" key="SettingsEditor" timestamp="1601709749924">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="56" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1601709749924" />
+    <state x="178" y="22" key="new project wizard" timestamp="1601714673729">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="178" y="22" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1601714673729" />
+    <state x="615" y="321" key="svn.upgradeDialog" timestamp="1601714650219">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="615" y="321" key="svn.upgradeDialog/0.0.1536.824@0.0.1536.824" timestamp="1601714650219" />
+    <state x="573" y="278" key="svn4idea.checkout.options" timestamp="1601714649176">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="573" y="278" key="svn4idea.checkout.options/0.0.1536.824@0.0.1536.824" timestamp="1601714649176" />
+  </component>
+</project>
